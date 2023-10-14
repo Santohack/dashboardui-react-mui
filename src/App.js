@@ -1,4 +1,3 @@
-import { Button } from "@mui/material";
 import Navbar from "./pages/navBar";
 
 function App() {

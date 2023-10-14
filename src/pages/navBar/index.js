@@ -6,7 +6,7 @@ import RightNav from './rightsidebar'
 const Navbar = () => {
   return (
     <>
-   <Grid container>
+   <Grid container >
    <Grid  md={2} >
     <LeftNav />
    </Grid>

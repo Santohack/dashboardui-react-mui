@@ -22,3 +22,9 @@ export const MyList = styled(List)(({type})=>({
     background:theme.palette.primary.main
     
 }))
+
+export const RightContainer = styled(Box)(()=>({
+    width: "96%",
+    height: "93vh",
+    margin:'0px 29px 0px 30px'
+  }))
